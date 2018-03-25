@@ -5,10 +5,9 @@
 * [Description](./README.md#description)
   * [Example Input and Output](./README.md#example-input-and-output)
 * [Prerequisite](./README.md#setup)
-* [Compiling the code](./README.md#running-the-app)
+* [Compiling the code](./README.md#compiling-the-code)
 * [Running the tests](./README.md#running-the-tests)
 * [Running the application](./README.md#running-the-application)
-* [Examples of use](./test_data/test_data.txt)
 
 ## Description
 
